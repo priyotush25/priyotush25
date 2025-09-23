@@ -41,9 +41,9 @@ Every day, I aim to become better at writing clean, efficient, and scalable code
 
 | Project Name        | Description                             | Live Demo | GitHub Code |
 |---------------------|------------------------------------------|-----------|-------------|
-| Personal Portfolio  | My developer portfolio built with React | [Live](https://yourusername.github.io/portfolio) | [Code](https://github.com/yourusername/portfolio) |
-| To-Do App           | A task manager using React               | [Live](https://yourusername.github.io/todo-app) | [Code](https://github.com/yourusername/todo-app) |
-| MERN Blog API       | Blog backend API using Express & MongoDB| Coming Soon | [Code](https://github.com/yourusername/mern-blog-api) |
+| Personal Portfolio  | My developer portfolio built with React | [Live](https://priyotush25.github.io/portfolio) | [Code](https://github.com/priyotush25/portfolio) |
+| To-Do App           | A task manager using React               | [Live](https://priyotush25.github.io/todo-app) | [Code](https://github.com/priyotush25/todo-app) |
+| MERN Blog API       | Blog backend API using Express & MongoDB| Coming Soon | [Code](https://github.com/priyotush25/mern-blog-api) |
 
 ---
 
@@ -69,8 +69,8 @@ Every day, I aim to become better at writing clean, efficient, and scalable code
 ## 📫 Contact Me
 
 - 📧 Email: yourmail@example.com  
-- 🔗 LinkedIn: 
-- 🌐 Portfolio: 
+- 🔗 LinkedIn: https://www.linkedin.com/in/priyotushpaul  
+- 🌐 Portfolio: https://priyotush25.github.io/portfolio  
 
 ---
 
