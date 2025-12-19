@@ -1,84 +1,70 @@
-<h1 align="center">Hi there, I'm Priyotush Paul 👋</h1>
+<h1 align="center">Hi, I'm Priyotush Paul 👋</h1>
 <p align="center">
-  👨‍💻 MERN Stack Learner | 💡 Always Learning | 🚀 Future Full-Stack Developer
+  👨‍💻 MERN Stack Developer | 💡 Lifelong Learner | 🚀 Aspiring Full-Stack Engineer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-
-I’m a passionate and motivated web developer currently learning the **MERN stack** — MongoDB, Express.js, React.js, and Node.js.  
-I enjoy building full-stack applications and learning how the frontend and backend work together.  
-Every day, I aim to become better at writing clean, efficient, and scalable code.
+I’m a passionate web developer specializing in the **MERN stack** — MongoDB, Express.js, React.js, and Node.js.  
+I enjoy building **full-stack applications** and bridging the gap between frontend and backend.  
+My focus is on writing **clean, scalable, and efficient code** while continuously learning modern technologies.
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
-### 🚀 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS / Bootstrap
+### Frontend
+- HTML5 | CSS3 | JavaScript (ES6+)  
+- React.js | Tailwind CSS | Bootstrap  
 
-### ⚙️ Backend
-- Node.js
-- Express.js
+### Backend
+- Node.js | Express.js  
 
-### 🛢️ Database
-- MongoDB
+### Database
+- MongoDB  
 
-### 🔧 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Netlify / Vercel / Render
+### Tools & Platforms
+- Git & GitHub | VS Code | Postman  
+- Netlify | Vercel | Render  
 
 ---
 
 ## 📂 Projects
 
-| Project Name        | Description                             | Live Demo | GitHub Code |
-|---------------------|------------------------------------------|-----------|-------------|
-| Personal Portfolio  | My developer portfolio built with React | [Live](https://priyotush25.github.io/portfolio) | [Code](https://github.com/priyotush25/portfolio) |
-| To-Do App           | A task manager using React               | [Live](https://priyotush25.github.io/todo-app) | [Code](https://github.com/priyotush25/todo-app) |
-| MERN Blog API       | Blog backend API using Express & MongoDB| Coming Soon | [Code](https://github.com/priyotush25/mern-blog-api) |
+| Project | Description | Live Demo | GitHub |
+|--------|-------------|-----------|--------|
+| **Personal Portfolio** | Developer portfolio built with React | [Live](https://priyotush25.github.io/portfolio) | [Code](https://github.com/priyotush25/portfolio) |
+| **To-Do App** | Task management app built with React | [Live](https://priyotush25.github.io/todo-app) | [Code](https://github.com/priyotush25/todo-app) |
+| **MERN Blog API** | Backend API for a blog using Express & MongoDB | Coming Soon | [Code](https://github.com/priyotush25/mern-blog-api) |
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyotush25&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyotush25&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Priyotush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyotush25&show_icons=true&theme=radical)  
 
 ---
 
 ## 🎯 Currently Learning
-
-- Advanced React (Hooks, Context API)
-- Express.js and REST APIs
-- MongoDB CRUD Operations
-- Authentication & Authorization (JWT)
-- Deployment using Render and Vercel
+- Advanced React (Hooks, Context API)  
+- REST APIs with Express.js  
+- MongoDB CRUD & Data Modeling  
+- Authentication & Authorization (JWT)  
+- Deployment with Render & Vercel  
 
 ---
 
-## 📫 Contact Me
-
+## 📫 Contact
 - 📧 Email: yourmail@example.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/priyotushpaul  
-- 🌐 Portfolio: https://priyotush25.github.io/portfolio  
+- 🔗 LinkedIn: [Priyotush Paul](https://www.linkedin.com/in/priyotushpaul)  
+- 🌐 Portfolio: [Portfolio](https://priyotush25.github.io/portfolio)  
 
 ---
 
 ## ⚡ Fun Facts
-
-- 💻 I code almost every day!
-- 🧠 I learn best by building real-world projects.
-- 💬 I love helping others learn and grow in tech.
+- 💻 I code almost daily  
+- 🧠 Learning by building real projects  
+- 💬 I enjoy mentoring and sharing knowledge  
 
 ---
 
