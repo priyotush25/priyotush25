@@ -1,3 +1,7 @@
+<img width="1017" height="320" alt="github banner" src="https://github.com/user-attachments/assets/f1a1a68e-302c-4819-8c20-9d777234697e" />
+
+
+
 <h1 align="center">Hi, I'm Priyotush Paul 👋</h1>
 <p align="center">
   👨‍💻 MERN Stack Developer | 💡 Lifelong Learner | 🚀 Aspiring Full-Stack Engineer
