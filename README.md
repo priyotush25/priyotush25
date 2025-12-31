@@ -3,10 +3,11 @@
   👨‍💻 MERN Stack Developer | 💡 Lifelong Learner | 🚀 Aspiring Full-Stack Engineer
 </p>
 
----
+
 
 ## 👨‍💻 About Me
-I’m a passionate web developer specializing in the **MERN stack** — MongoDB, Express.js, React.js, and Node.js.  
+I’m a passionate web developer specializing in the **MERN stack** — MongoDB, Express.js, React.js, and Node.js.  <img width="1017" height="320" alt="github banner" src="https://github.com/user-attachments/assets/f1a1a68e-302c-4819-8c20-9d777234697e" />
+
 I enjoy building **full-stack applications** and bridging the gap between frontend and backend.  
 My focus is on writing **clean, scalable, and efficient code** while continuously learning modern technologies.
 
