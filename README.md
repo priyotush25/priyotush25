@@ -1,9 +1,7 @@
-
-
 <div align="center">
   <img width="100%" alt="git banner" src="https://github.com/user-attachments/assets/8c458767-499d-405a-9ca2-525e064669ba" />
   
-  <h1>Hi 👋 I'm <a href="https://your-portfolio-link.com">Priyotush Chandra Paul</a></h1>
+  <h1>Hi 👋 I'm <a href="https://github.com/priyotush25">Priyotush Chandra Paul</a></h1>
   <p><strong>MERN Stack Developer | Full-Stack Enthusiast | Problem Solver</strong></p>
 
   <p>
@@ -19,15 +17,8 @@
 I am a passionate **MERN Stack Developer** dedicated to building scalable, responsive, and user-centric web applications. Recently graduated from an intensive 6-month Web Development Bootcamp, I thrive on turning complex problems into elegant code. 
 
 - 🚀 **Focus:** Building performant Full-Stack applications.
-- 🎓 **Background:** Continuous learner with a focus on modern JavaScript ecosystems.
+- 🌱 **Learning:** Currently mastering **Next.js** for modern SSR applications.
 - 💡 **Goal:** To contribute to open-source and build impactful digital products.
-
----
-
-### 🚀 Current Focus
-- 🌱 Deep diving into **Next.js** for Server-Side Rendering (SSR).
-- 🧳 Developing a **Tourism Management System** (MERN Stack).
-- ⚡ Optimizing API performance using **Express & MongoDB**.
 
 ---
 
@@ -41,16 +32,23 @@ I am a passionate **MERN Stack Developer** dedicated to building scalable, respo
 
 ---
 
-### 📊 GitHub Activity
+### 🚀 Current Activities
+- 🗺️ Working on a comprehensive **Tourism Website** with MERN.
+- ⚛️ Exploring advanced features in **Next.js**.
+- ✍️ Practicing clean code architecture and API optimization.
+
+---
+
+### 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyotush25&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyotush25&layout=compact&theme=radical" alt="Top Languages" height="180px" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=priyotush25&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Priyotush Chandra Paul. Last updated: Dec 2025.</sub>
+  <sub>Built with ❤️ by Priyotush Chandra Paul.</sub>
 </div>
